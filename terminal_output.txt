@@ -60,7 +60,7 @@ Probability Distribution:
 
 Document 2:
 Text: employee attendance tracking and time management system
-Predicted Class: Finance
+Predicted Class: HR
 Confidence: 36.62%
 Probability Distribution:
   Finance: 36.62%
@@ -112,4 +112,5 @@ Testing single document classification function:
 
 Document: cloud server deployment and infrastructure management
 Predicted Class: IT
+
 Confidence: 42.82%
